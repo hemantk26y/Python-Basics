@@ -1,2 +1,2 @@
 # Python-Basics
-There python scripts with basics
+There are python scripts with basics
