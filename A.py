@@ -1,4 +1,5 @@
-# Program to print A with  asterisks
+# Program to print A with asterisks (*) symbol
+# specified for 6x5 only
 
 for row in range(6):
     for col in range(5):
